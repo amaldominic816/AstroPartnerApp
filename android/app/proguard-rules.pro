@@ -1,0 +1,3 @@
+-dontwarn com.google.devtools.build.android.desugar.runtime.**
+-keep class io.agora.**{*;}
+-keep class com.hiennv.flutter_callkit_incoming.** { *; }
